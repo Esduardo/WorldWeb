@@ -11,7 +11,7 @@ function RegisterDatos() {
         <div className='container-datos'>
             <div>
                 <div className='content-title'>
-                    <LabelGeneral msg="Crear "></LabelGeneral>
+                    <LabelGeneral msg="Crear "/>
                     <span>Cuenta</span>
                 </div>
                 <div className='content-form'>

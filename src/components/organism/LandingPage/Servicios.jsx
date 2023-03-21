@@ -27,7 +27,7 @@ function Servicios() {
                 Ofrecemos cursos de musica, teatro, pintura y danza
             </h2>
             <p className="pServicios">
-                WordlArt esta capacitado con los mejores profesores
+                WorldArt esta capacitado con los mejores profesores
                 en cada una de las areas que puedas encontrar  
             </p>
         </StyleDivServicios> 

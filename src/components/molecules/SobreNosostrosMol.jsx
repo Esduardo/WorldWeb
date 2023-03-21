@@ -18,7 +18,7 @@ function SobreNosotrosMol({msg}) {
     <div className="contenido-text">
         <Label msg="Sobre Nosotros"/>
         <StyleP>
-        Nosotros somos diseñado para brindar cursos 
+        Nosotros hemos diseñado esta pagina para brindar cursos 
         dedicados al arte, 
         los cuales tenemos las siguientes secciones:
         </StyleP>
